@@ -10,10 +10,11 @@ The following steps were followed in this project:
 2.	**Data Cleaning**: Handled missing data, and data inconsistencies to ensure accuracy.
 3.	**Visualization**: Used Power BI and Excel to create visual representations of the key findings.
 4.	**Analysis**: Analyzed the data to compare yearly total revenue and net income.
-## Dashboard Interaction
-- Dashboard: <a href="https://github.com/Pravin12131/Financial-Insight/blob/main/Income%20Statement%20Dashboard.pdf">View Image</a>
 ## Conclusion
 Overall, the financial income statement dashboard highlights a steady increase in revenue, with a 30% growth compared to the previous year. Moving forward, focusing on improving operational efficiency and exploring new revenue channels could help sustain growth.
+## Dashboard Interaction
+- Dashboard: <a href="https://github.com/Pravin12131/Financial-Insight/blob/main/Income%20Statement%20Dashboard.pdf">View Image</a>
+
 
 
 
